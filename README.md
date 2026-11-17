@@ -1,0 +1,1 @@
+This repository contains the MATLAB implementation of the nonlinear enclosure method studied in [arXiv:2506.19447](https://arxiv.org/abs/2506.19447). The MATLAB code in this repository was generated using Claude Opus 5.5. 
